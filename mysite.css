@@ -1,0 +1,276 @@
+.first{	
+background-image:url('city.jpg');
+height:1080px;
+width:100%;
+}
+#myVideo{
+	position:fixed;
+	right:0;
+	bottom:0;
+	min-width:100%;
+	min-height:100%;
+}
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-left: 0; /*убираем левый отступ, равный 40px*/
+}
+a {
+text-decoration: none;
+color:#fafafa;
+}
+#top{
+width:100%;
+height:80px;
+}
+#top2{
+margin-top:30px;	
+}
+li{
+display:inline-block;
+margin-left:25px;
+}
+#hom{
+margin-left:10px;
+margin-top:30px;	
+}
+#button{
+width:100px;
+height:40px;
+background-color:#F5BA10;
+border-radius:4px;
+padding-top:7px;
+padding-left:16px;
+}
+#main{
+max-width:900px;
+height:200px;
+margin-top:20%;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#button2{
+width:300px;
+height:40px;
+background-color:#F26F0F;
+border-radius:4px;
+padding-top:7px;
+padding-left:16px;	
+}
+.btn{
+display:inline-block;	
+margin-left:20px;
+}
+h1{
+color:white;
+text-align:center;
+}
+#mainText{
+color:#fafafa;
+text-align:center;
+}
+#btns{	
+margin-top:10px;
+text-align:center;	
+}
+#second{
+	background-color:#E0E0DE;
+	width:100%;
+	height:1130px;
+	position:absolute;
+}
+#sec{
+	margin-top:15%;
+	margin-bottom:5%;
+	color:black;
+	text-align:center;
+}
+#topic1{
+	width:70%;
+	margin:auto;
+	padding:0;
+}
+.troika{
+	display:inline-block;
+	width:230px;
+	height:280px;
+	margin-top:15px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	box-shadow: 10px 5px 5px #B1B1AD;
+	
+}
+#row2{
+	
+	display:flex;
+	justify-content:space-around;
+}
+#upper{
+	width:230px;
+	height:220px;
+	background-color:#fafafa;
+	border-radius:10px 10px 0 0;
+	padding:10px;
+
+}
+#bottom{
+	width:230px;
+	height:60px;
+	background-color:#F26F0F;
+	border-radius:0 0 10px 10px;
+	padding-top:17px;
+		box-shadow: 10px 5px 5px #B1B1AD;
+padding-left:54px;
+}
+h5{
+	margin-top:10px;
+	margin-bottom:20px;
+}
+#third{
+	width:100%;
+	height:800px;
+	background-image:url('buisnessman.jpg');
+	position:absolute;
+	margin-top:1130px;
+}
+#title{
+	color: #E9E9E6;
+	margin-bottom:20px;
+}
+#thirdCenter{
+	width:500px;
+	height:500px;
+	margin:auto;
+	padding:0;
+	margin-top:25%;
+}
+#risk{
+	color:white;
+}
+.bt2{
+	margin-left:37%;
+}
+h4{
+	text-align:center;
+}
+.big{
+	text-align:center;
+	font-size:70px;
+	color:#F5C615;
+}
+.fourBlocks{
+	width:330px;
+	height:330px;
+	background-color:#E5E5E5;
+	margin-top:20px;
+	padding:15px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#fourth{
+	position:absolute;
+	margin-top:1880px;
+	width:100%;
+	height:1200px;
+}
+#fifth{
+	position:absolute;
+	margin-top:3080px;
+	width:100%;
+	height:1200px;
+}
+#firstTwo{
+	height:900px;
+}
+#secondTwo,#firstTwo{
+	height:430px;
+	margin-top:-50px;
+	position:relative;
+}
+#orangeLine{
+	background-color:#F26F0F;
+	max-width:100%;
+	height:200px;
+	margin-top:50%;
+	padding-top:5%;
+}
+.sixDivs{
+	max-width:650px;
+	height:330px;
+	margin-bottom:50px;
+	padding:10px;
+	padding-left:80px;
+	
+}
+.this{
+	display:inline-block;
+	margin-top:100px;
+	width:650px;
+	height:1180px;
+}
+#thisRow{
+	display:flex;
+	justify-content:space-around;
+}
+#long{
+	margin-top:5700px;
+	background-image:url('city2.jpg');
+	color:white;
+	width:100%;
+	height:200px;
+}
+#lefter{
+	width:70%;
+	height:150px;
+	margin-top:3%;
+}
+#title11{
+	text-align:left;
+	margin-left:20px;
+}
+.twoo{
+	display:inline-block;
+}
+#lastDiv{
+	background-color:#292727;
+	width:100%;
+	height:170px;
+}
+.footerInfo{	
+	margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+	display:inline-block;
+}
+#orangeLine2{
+	width:100%;
+	height:20px;
+	background-color:#F26F0F;
+}
+#newsInfo{
+	height:100px;
+	width:200px;
+}
+#news{
+	color:red;
+	margin-bottom:10px;
+}
+#other{
+		height:100px;
+	width:200px;
+}
+#lastRow{
+	display:flex;
+justify-content:space-around;	
+}
+#news{
+	color:#6D6565;
+}
+#rewards{
+	height:20px;
+	width:600px;
+	margin-left:27px;
+}
